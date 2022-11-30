@@ -1,0 +1,82 @@
+.button_Japen {
+    background-image:url(Japen.png);
+   
+}
+.button_Japen:active {
+}
+.button_Japen:hover {
+    cursor: pointer;
+}
+.button_anime{
+    background-image: url(anime.jpg)
+    
+}
+.button_anime:hover{
+    cursor:pointer;
+}
+.button_anime:active {
+}
+.button_minecraft {
+    background-image: url(minecraft.jpg);
+}
+.button_minecraft:active {
+    }
+.button_minecraft:hover {
+        cursor: pointer;
+}
+.button_ino {
+    background-image: url(Ino.jpg);
+}
+.button_ino:active {
+}
+.button_ino:hover {
+        cursor: pointer;
+}
+.button_cosmo {
+    background-image: url(Cosmo.jpg);
+}
+.button_cosmo:active {
+}
+.button_cosmo:hover {
+        cursor: pointer;
+    }
+.button_les {
+    background-image: url(les_button.jpg);
+}
+.button_les:active {
+}
+.button_les:hover {
+        cursor: pointer;
+}
+.button_gor {
+    background-image: url(Ima.jpeg);
+}
+.button_gor:active {
+}
+.button_gor:hover {
+        cursor: pointer;
+}
+.button_old {
+    background-image: url(Old.jpg);
+}
+.button_old:active {
+    }
+.button_old:hover {
+        cursor: pointer;
+    }
+.button_n {
+    background-image: url(Night.jpg);
+}
+.button_n:active {
+}
+.button_n:hover {
+        cursor: pointer;
+}
+.button_Clasik {
+    background-image: url(1.jpg);
+}
+.button_Clasik:active {
+    }
+.button_Clasik:hover {
+        cursor: pointer;
+    }
